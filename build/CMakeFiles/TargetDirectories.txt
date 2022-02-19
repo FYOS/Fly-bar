@@ -1,0 +1,10 @@
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/CMakeFiles/install/local.dir
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/CMakeFiles/install.dir
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/CMakeFiles/list_install_components.dir
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/CMakeFiles/rebuild_cache.dir
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/CMakeFiles/edit_cache.dir
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/CMakeFiles/translations.dir
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/CMakeFiles/install/strip.dir
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/CMakeFiles/cutefish-statusbar.dir
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/CMakeFiles/KF5WindowSystem_QCH.dir
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/CMakeFiles/cutefish-statusbar_autogen.dir

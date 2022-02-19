@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build/cutefish-statusbar_autogen/EWIEGA46WW/qrc_qml.cpp
+

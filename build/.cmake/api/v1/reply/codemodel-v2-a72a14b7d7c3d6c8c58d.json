@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "statusbar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KF5WindowSystem_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF5WindowSystem_QCH-ba0e4d26f84b131d5d8b.json",
+					"name" : "KF5WindowSystem_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cutefish-statusbar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cutefish-statusbar-f18d772e4fa915957f54.json",
+					"name" : "cutefish-statusbar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cutefish-statusbar_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cutefish-statusbar_autogen-398793a83efd79e5a29e.json",
+					"name" : "cutefish-statusbar_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-translations-7f10eed6f93a8bc1f242.json",
+					"name" : "translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar/build",
+		"source" : "/home/tokyo/Desktop/wayTo minions Os/minions/minions.statusbar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
